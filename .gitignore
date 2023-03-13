@@ -2,5 +2,4 @@ Logs/
 Packages/
 UserSettings/
 *.meta
-Library/PackageCache/
-Library/BurstCache/
+Library/
